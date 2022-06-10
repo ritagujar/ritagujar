@@ -3,9 +3,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritagujar)](#)
 
+<!--
 <h3 align="center"> Visitors count </h3>
 <p align="center">
   <a href="https://github.com/ritagujar/github-profile-count">
     <img align="center" src="https://profile-counter.glitch.me/{ritagujar}/count.svg" />
     </a>
-  </p>
+  </p> -->
