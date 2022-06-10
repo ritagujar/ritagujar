@@ -5,7 +5,7 @@
 
 <h3 align="center"> Visitors count </h3>
 <p align="center">
-  <a href="https://github.com/ParthGohil21/github-profile-count">
-    <img align="center" src="https://profile-counter.glitch.me/{ParthGohil21}/count.svg" />
+  <a href="https://github.com/ritagujar/github-profile-count">
+    <img align="center" src="https://profile-counter.glitch.me/{ritagujar}/count.svg" />
     </a>
   </p>
